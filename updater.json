@@ -1,0 +1,33 @@
+{
+  "app": {
+    "name": "IMGUI Editor",
+    "package": "com.bexhaze.imguieditor"
+  },
+  "latest_version": "1.2.0",
+  "min_supported_version": "1.1.0",
+  "force_update": true,
+  "release_date": "2026-01-18",
+  "update": {
+    "title": "Zorunlu Güncelleme",
+    "message": "Bu sürüm artık desteklenmiyor. Uygulamayı kullanmaya devam etmek için güncelleme yapman gerekiyor.",
+    "changelog": [
+      "Performans iyileştirmeleri",
+      "UI tasarım güncellemeleri",
+      "Kritik hatalar düzeltildi"
+    ]
+  },
+  "download": {
+    "apk_url": "https://siteadresin.com/app/PersorAI_v1.2.0.apk",
+    "apk_size_mb": 28.4,
+    "checksum_sha256": "PUT_SHA256_HASH_HERE"
+  },
+  "store": {
+    "play_store": "https://play.google.com/store/apps/details?id=com.persorai.app",
+    "fallback_url": "https://siteadresin.com/download"
+  },
+  "behavior": {
+    "block_app_until_update": true,
+    "allow_skip": false,
+    "retry_interval_seconds": 10
+  }
+}

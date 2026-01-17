@@ -1,0 +1,45 @@
+{
+  "team": {
+    "project_name": "IMGUI Editor",
+    "contact": {
+      "telegram_group": "https://t.me/imguieditor",
+      "support": "https://t.me/imguieditor"
+    }
+  },
+  "developers": [
+    {
+      "id": "dev_01",
+      "name": "BexHaze",
+      "role": "Founder & Lead Developer",
+      "telegram": "https://t.me/bexhaze",
+      "profile": {
+        "avatar": "https://drive.google.com/file/d/13nfjM9y_9E0Rkrbv-VHcOkJ_sdmy7GYA/view?usp=sharing",
+        "banner": "https://drive.google.com/file/d/1yUEJug90aT4f5541iK6DKxpCzMfXRNU5/view?usp=sharing"
+      }
+    },
+    {
+      "id": "dev_02",
+      "name": "By Dwoz",
+      "role": "Backend Developer",
+      "telegram": "https://t.me/ByDwoz",
+      "profile": {
+        "avatar": "https://drive.google.com/file/d/1yUEJug90aT4f5541iK6DKxpCzMfXRNU5/view?usp=sharing",
+        "banner": "https://drive.google.com/file/d/1yUEJug90aT4f5541iK6DKxpCzMfXRNU5/view?usp=sharing"
+      }
+    },
+    {
+      "id": "dev_03",
+      "name": "Xelahot Official",
+      "role": "UI / UX Designer",
+      "telegram": "https://t.me/XelahotOfficial",
+      "profile": {
+        "avatar": "https://cdn.siteadresin.com/devs/elif.jpg",
+        "banner": "https://cdn.siteadresin.com/devs/elif_banner.jpg"
+      }
+    }
+  ],
+  "meta": {
+    "last_updated": "2026-01-18",
+    "version": "1.0.0"
+  }
+}

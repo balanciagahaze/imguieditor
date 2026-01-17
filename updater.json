@@ -3,8 +3,8 @@
     "name": "IMGUI Editor",
     "package": "com.bexhaze.imguieditor"
   },
-  "latest_version": "1.2.0",
-  "min_supported_version": "1.1.0",
+  "latest_version": "1.0",
+  "min_supported_version": "1.0",
   "force_update": true,
   "release_date": "2026-01-18",
   "update": {

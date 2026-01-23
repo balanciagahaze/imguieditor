@@ -3,10 +3,10 @@
     "name": "IMGUI Editor",
     "package": "com.bexhaze.imguieditor"
   },
-  "latest_version": "2.0",
-  "min_supported_version": "2.0",
+  "latest_version": "2.4",
+  "min_supported_version": "2.4",
   "force_update": true,
-  "release_date": "2026-01-20",
+  "release_date": "2026-01-24",
   "update": {
     "title": "NEW UPDATE!",
     "message": "Bu sürüm artık desteklenmiyor. Uygulamayı kullanmaya devam etmek için güncelleme yapman gerekiyor.",
@@ -17,13 +17,13 @@
     ]
   },
   "download": {
-    "apk_url": "https://t.me/c/3008338464/1056",
+    "apk_url": "https://t.me/c/3008338464/1250",
     "apk_size_mb": 28.4,
     "checksum_sha256": "PUT_SHA256_HASH_HERE"
   },
   "store": {
-    "play_store": "https://t.me/c/3008338464/1056",
-    "fallback_url": "https://t.me/c/3008338464/1056"
+    "play_store": "https://t.me/c/3008338464/1250",
+    "fallback_url": "https://t.me/c/3008338464/1250"
   },
   "behavior": {
     "block_app_until_update": true,
